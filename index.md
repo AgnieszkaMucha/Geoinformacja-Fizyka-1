@@ -7,17 +7,21 @@
 
 1. Wykłady prowadzone są we czwartki w godzinach 9:45 - 11:15 w sali wykładowej B budynku D10  
 2. Wykłądy prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
-- [Informacje wstępne](IZPP_Wstep.pdf)
-- [Kinematyka](Kinematyka.pdf)
-- [Dynamika](IZPP_2_Dynamika.pdf)
-- [Praca, energia kinetyczna](IZPP_3_PracaEnergiaKinetyczna.pdf)
-- [Energia potencjalna](IZPP_4_EnergiaPotencjalna.pdf)
-- [Pęd i zderzenia](IZPP_5_PedZderzenia.pdf)
-- [Ruch obrotowy](IZPP_6_RuchObrotowy.pdf) 
+- [Informacje wstępne](GIN_Wstep_1.pdf)
+- [Kinematyka](GIN_1_Kinematyka.pdf)
+- [Dynamika](GIN_2_Dynamika.pdf)
+- [Praca, energia kinetyczna](GIN_3_PracaEnergiaKinetyczna.pdf)
+- [Energia potencjalna](GIN_4_EnergiaPotencjalna.pdf)
+- [Pęd i zderzenia](GIN_5_PedZderzenia.pdf)
+- [Grawitacja](GIN_6_Grawitacja.pdf) 
+- [Ruch obrotowy](GIN_7_RuchObrotowy.pdf) 
+- [Ruch drgający](GIN_8_Drgania.pdf) 
+- [Fale mechaniczne](GIN_9_Fale.pdf) 
+- [Hydrodynamika](GIN_10_Hydrodynamika.pdf) 
 
 
 ### Konsultacje 
-Konsulatcje umawiane są indywidualnie poprzez MSTeams.
+Konsulatcje umawiane są indywidualnie.
 
 ### Kontakt
 AGH WFiIS <br>
