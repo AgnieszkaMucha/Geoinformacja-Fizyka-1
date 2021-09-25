@@ -6,7 +6,7 @@
 ### WYKŁADY
 
 1. Wykłady prowadzone są we czwartki w godzinach 9:45 - 11:15 w sali wykładowej B budynku D10  
-2. Wykłądy prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
+2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 - [Informacje wstępne](GIN_Wstep_1.pdf)
 - [Kinematyka](GIN_1_Kinematyka.pdf)
 - [Dynamika](GIN_2_Dynamika.pdf)
