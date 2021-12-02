@@ -11,12 +11,12 @@
 - [Kinematyka](GIN_1_Kinematyka.pdf)
 - [Dynamika](GIN_2_Dynamika.pdf)
 - [Praca, energia kinetyczna, energia potencjalna, zasada zachowania energii](GIN_3_PracaEnergia.pdf)
-- [Pęd i zderzenia](GIN_5_PedZderzenia.pdf)
-- [Grawitacja](GIN_6_Grawitacja.pdf) 
-- [Ruch obrotowy](GIN_7_RuchObrotowy.pdf) 
-- [Ruch drgający](GIN_8_Drgania.pdf) 
-- [Fale mechaniczne](GIN_9_Fale.pdf) 
-- [Hydrodynamika](GIN_10_Hydrodynamika.pdf) 
+- [Pęd i zderzenia](GIN_4_PedZderzenia.pdf)
+- [Grawitacja](GIN_5_Grawitacja.pdf) 
+- [Ruch obrotowy](GIN_6_RuchObrotowy.pdf) 
+- [Ruch drgający](GIN_7_Drgania.pdf) 
+- [Fale mechaniczne](GIN_8_Fale.pdf) 
+- [Hydrodynamika](GIN_9_Hydrodynamika.pdf) 
 
 
 ### Konsultacje 
