@@ -18,6 +18,10 @@
 - [Fale mechaniczne](GIN_8_Fale.pdf) 
 - [Hydrodynamika](GIN_9_Hydrodynamika.pdf) 
 
+### Egzaminy
+1. termin: 27.01 pisemny
+2. termin 4.02 pisemny
+3. termin 17.02 ustny
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie.
