@@ -19,8 +19,8 @@
 - [Hydrodynamika](GIN_9_Hydrodynamika.pdf) 
 
 ### Egzaminy
-1. termin: 27.01 pisemny
-2. termin 4.02 pisemny
+1. termin: 27.01 godz. 9:45 s.B/D10 pisemny
+2. termin 4.02 godz. 10 s.A/D10 pisemny
 3. termin 17.02 ustny
 
 ### Konsultacje 
