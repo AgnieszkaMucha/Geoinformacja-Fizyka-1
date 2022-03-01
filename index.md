@@ -1,4 +1,4 @@
-# FIZYKA 1
+# FIZYKA 2
 ## Wydział Geodezji Górniczej I Inżynierii Środowiska
 # Geoinformacja
 
