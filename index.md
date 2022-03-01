@@ -13,9 +13,10 @@
 - Pole magnetyczne 2 [wykład](IZPP_5_Pole_magnetyczne_2.pdf)
 - Fale elektromagnetyczne [wykład](IZPP_6_FaleElektromagnetycze.pdf)
 - Optyka [wykład](IZPP_7_Optyka.pdf)
+- Zjawiska kwantowe [wykład](IZPP_8_Kwanty.pdf)
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
--->
+
 
 <!--
 3. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
