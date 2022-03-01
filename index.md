@@ -5,8 +5,20 @@
 
 ### WYKŁADY
 
-1. Wykłady prowadzone są we czwartki w godzinach 9:45 - 11:15 w sali wykładowej B budynku D10  
-2. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
+1. Wykłady prowadzone są w piątki  w godzinach 15-16:30 w sali wykładowej B budynku D10  
+- Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
+- Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
+- Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
+- Pole magnetyczne 1 [wykład](IZPP_4_Pole_magnetyczne_1.pdf)
+- Pole magnetyczne 2 [wykład](IZPP_5_Pole_magnetyczne_2.pdf)
+- Fale elektromagnetyczne [wykład](IZPP_6_FaleElektromagnetycze.pdf)
+- Optyka [wykład](IZPP_7_Optyka.pdf)
+- Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
+- Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
+-->
+
+<!--
+3. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 - [Informacje wstępne](GIN_Wstep_1.pdf)
 - [Kinematyka](GIN_1_Kinematyka.pdf)
 - [Dynamika](GIN_2_Dynamika.pdf)
@@ -22,6 +34,7 @@
 1. termin: 27.01 godz. 9:45 s.B/D10 pisemny
 2. termin 4.02 godz. 10 s.A/D10 pisemny
 3. termin 17.02 ustny
+-->
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie.
