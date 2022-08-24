@@ -31,14 +31,16 @@
 - [Fale mechaniczne](GIN_8_Fale.pdf) 
 - [Hydrodynamika](GIN_9_Hydrodynamika.pdf) 
 
-### Egzaminy
-1. termin: 27.01 godz. 9:45 s.B/D10 pisemny
-2. termin 4.02 godz. 10 s.A/D10 pisemny
-3. termin 17.02 ustny
+
 -->
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie.
+
+### Egzaminy (sesja letnia) 
+1. 22.06.2022 godz. 15 s.B/D10 egzamin pisemny
+2. 6.07.2022 godz. 15 egzamin egzamin ustny zdalny
+3. 5.09.2022	15:00 - 16:30 D-10 225 egzamin ustny
 
 ### Kontakt
 AGH WFiIS <br>
