@@ -40,7 +40,7 @@ Konsulatcje umawiane są indywidualnie.
 ### Egzaminy (sesja letnia) 
 1. 22.06.2022 godz. 15 s.B/D10 egzamin pisemny
 2. 6.07.2022 godz. 15 egzamin egzamin ustny zdalny
-3. 5.09.2022	15:00 - 16:30 D-10 225 egzamin ustny
+3. 9.09.2022	12-14 D-10 225 egzamin ustny
 
 ### Kontakt
 AGH WFiIS <br>
