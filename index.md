@@ -5,7 +5,8 @@
 
 ### WYKŁADY
 
-1. Wykłady prowadzone są w piątki  w godzinach 15-16:30 w sali wykładowej B budynku D10  
+1. Wykłady prowadzone są w czwartki w godzinach 10-11:30 w sali wykładowej B budynku D10  
+<!--
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
 - Obwody prądu stałego [wykład](IZPP_3_Prad.pdf)
@@ -16,9 +17,9 @@
 - Zjawiska kwantowe [wykład](IZPP_8_Kwanty.pdf)
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
+-->
 
 
-<!--
 3. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 - [Informacje wstępne](GIN_Wstep_1.pdf)
 - [Kinematyka](GIN_1_Kinematyka.pdf)
@@ -32,15 +33,12 @@
 - [Hydrodynamika](GIN_9_Hydrodynamika.pdf) 
 
 
--->
+
 
 ### Konsultacje 
 Konsulatcje umawiane są indywidualnie.
 
-### Egzaminy (sesja letnia) 
-1. 22.06.2022 godz. 15 s.B/D10 egzamin pisemny
-2. 6.07.2022 godz. 15 egzamin egzamin ustny zdalny
-3. 9.09.2022	12-14 D-10 225 egzamin ustny
+### Egzaminy 
 
 ### Kontakt
 AGH WFiIS <br>
