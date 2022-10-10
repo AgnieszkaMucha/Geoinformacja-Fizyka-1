@@ -6,6 +6,7 @@
 ### WYKŁADY
 
 1. Wykłady odbywają się w czwartki w godzinach 10-11:30 w sali wykładowej B budynku D10  
+2.
 <!--
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
@@ -18,6 +19,7 @@
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
 -->
+
 Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 
 - [Informacje wstępne](GIN_Wstep_1.pdf)
