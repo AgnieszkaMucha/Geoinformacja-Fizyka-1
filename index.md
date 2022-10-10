@@ -5,7 +5,7 @@
 
 ### WYKŁADY
 
-1. Wykłady prowadzone są w czwartki w godzinach 10-11:30 w sali wykładowej B budynku D10  
+1. Wykłady odbywają się w czwartki w godzinach 10-11:30 w sali wykładowej B budynku D10  
 <!--
 - Elektrostatyka 1 [wykład](IZPP_1_Elektrostatyka_1.pdf)
 - Elektrostatyka 2 [wykład](IZPP_2_Elektrostatyka_2.pdf)
