@@ -18,9 +18,8 @@
 - Atomy i budowa materii [wykład](IZPP_9_Atomy_CialaStale.pdf)
 - Rozważania o fizyce jądrowej [wykład](IZPP_10_Fiz_Jadrowa.pdf)
 -->
+Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 
-
-3. Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów: 
 - [Informacje wstępne](GIN_Wstep_1.pdf)
 - [Kinematyka](GIN_1_Kinematyka.pdf)
 - [Dynamika](GIN_2_Dynamika.pdf)
