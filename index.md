@@ -1,6 +1,6 @@
 # FIZYKA 1
 ## Wydział Geodezji Górniczej I Inżynierii Środowiska
-# Geoinformacja
+# Informatyka Geoprzestrzenna
 
 
 ### WYKŁADY
