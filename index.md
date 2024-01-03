@@ -30,7 +30,9 @@ Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów:
 - [Grawitacja](GIN_5_Grawitacja.pdf) 
 - [Ruch obrotowy](GIN_5_RuchObrotowy.pdf) 
 - [Ruch drgający](GIN_7_Drgania.pdf) 
-- [Fale mechaniczne](GIN_8_Fale.pdf) 
+- [Fale mechaniczne](GIN_8_Fale.pdf)
+- [Hydrodynamika](GIN_9_Hydrodynamika.pdf)
+- [Termodynamika](GIN_10_Termodynamika.pdf]
 
 
 
