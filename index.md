@@ -53,6 +53,7 @@ mail: amucha@agh.edu.pl
 1. Fizyka dla szkół wyższych - OpenStax wersja online [link](https://openstax.pl/podreczniki)
 2. D. Halliday, R.Resnick, J. Walker "Podstawy Fizyk1" t.1-5, + Zbior zadań
 3. J. Jedrzejewski, W.Kruczek "Zbior zadan z fizyki" t.1-2,
+4. Z.Kąkol, J.Żukrowski "e-Fizyka", kurs AGH online [link](http://galaxy.agh.edu.pl/~kakol/efizyka_pl.html)
 
 
 
