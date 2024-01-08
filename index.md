@@ -41,7 +41,9 @@ Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów:
 Konsulatcje umawiane są indywidualnie.
 
 ### Egzaminy 
-
+- Termin 1- 29.01, godz. 12-14 s.D/D10 (pisemny)
+- Termin 2 (poprawkowy) 5.02 14-16 s. B/D10 (ustny lub pisemny)
+- Termin 3 (poprawkowy) 12.02 s.104/D11 (ustny)
 ### Kontakt
 AGH WFiIS <br>
 D11 pok. 106 <br>
