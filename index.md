@@ -33,6 +33,7 @@ Wykłady prowadzne są częściowo na tablicy, a częściowo ze slajdów:
 - [Fale mechaniczne](GIN_8_Fale.pdf)
 - [Hydrodynamika](GIN_9_Hydrodynamika.pdf)
 - [Termodynamika](GIN_10_Termodynamika.pdf)
+- - [Termodynamika](GIN_9_relatywistyka.pdf)
 
 
 
@@ -42,7 +43,7 @@ Konsulatcje umawiane są indywidualnie.
 
 ### Egzaminy 
 - Termin 1- 29.01, godz. 12-14 s.D/D10 (pisemny)
-- Termin 2 (poprawkowy) 5.02 14-16 s. B/D10 (ustny lub pisemny)
+- Termin 2 (poprawkowy) 5.02 15-16:30 s. B/D10 (ustny lub pisemny)
 - Termin 3 (poprawkowy) 12.02 s.104/D11 (ustny)
 ### Kontakt
 AGH WFiIS <br>
