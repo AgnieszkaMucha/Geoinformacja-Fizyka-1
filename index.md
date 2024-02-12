@@ -44,7 +44,7 @@ Konsulatcje umawiane są indywidualnie.
 ### Egzaminy 
 - Termin 1- 29.01, godz. 12-14 s.D/D10 (pisemny)
 - Termin 2 (poprawkowy) 7.02 15-16:30 s. B/D10 (pisemny)
-- Termin 3 (poprawkowy) 12.02 godz. 15 s.B/D10 (ustny lub pisemny)
+- Termin 3 (poprawkowy) 12.02 godz. 15 s.B/D10 odwołany z powodu braku uprawnionych 
 ### Kontakt
 AGH WFiIS <br>
 D11 pok. 106 <br>
